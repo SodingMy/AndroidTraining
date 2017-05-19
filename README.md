@@ -9,4 +9,4 @@
 7. [AndroidSQLite](http://intellij.my/2017/05/16/android-sqlite-tutorial/) - https://github.com/IntellijSys/AndroidSQLite
 8. [AndroidLayout](https://github.com/IntellijSys/AndroidLayout) - No tutorial
 9. [AndroidChat](https://github.com/IntellijSys/AndroidChat) - No tutorial
-10. [AndroidPermission]() - No tutorial
+10. [AndroidPermission](https://github.com/IntellijSys/AndroidPermission) - No tutorial
