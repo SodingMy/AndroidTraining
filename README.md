@@ -11,3 +11,10 @@
 9. [AndroidChat](https://github.com/IntellijSys/AndroidChat) - No tutorial
 10. [AndroidPermission](https://github.com/IntellijSys/AndroidPermission) - No tutorial
 11. [AndroidLifecycleActivity]() - No tutorial
+
+##FAQ/CONTACT/TROUBLESHOOT
+Mohammad Nurdin bin Norazan
+
+- http://github.com/datomnurdin
+- http://twitter.com/datomnurdin
+- mohammadnrdn@gmail.com
